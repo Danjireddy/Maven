@@ -56,7 +56,7 @@
   </dependencies>
 
   <build>
-    <finalName>Project_web</finalName>
+    <finalName>anji</finalName>
     <sourceDirectory>src/java</sourceDirectory>
     <outputDirectory>target/classes</outputDirectory>
     <plugins>
